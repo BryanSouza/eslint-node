@@ -5,6 +5,7 @@
   },
   "rules": {
     "strict": "error",
+    "no-var": "error",
     // Comment
     "multiline-comment-style": [
       "error",

@@ -7,6 +7,13 @@
     "strict": "error",
     "no-var": "error",
     "prefer-const": "error",
+    "one-var": [
+      "error",
+      "never"
+    ],
+    "camelcase": "error",
+    "no-unused-vars": "error",
+    "no-multi-assign": "error",
     // Comment
     "multiline-comment-style": [
       "error",

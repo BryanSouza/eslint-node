@@ -4,4 +4,5 @@
  */
 
 const animal = 'Dragonfly';
-console.log(animal);
+const plant = 'Pinetree';
+console.log(animal, ',', plant);

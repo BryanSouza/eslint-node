@@ -6,6 +6,7 @@
   "rules": {
     "strict": "error",
     "no-var": "error",
+    "prefer-const": "error",
     // Comment
     "multiline-comment-style": [
       "error",

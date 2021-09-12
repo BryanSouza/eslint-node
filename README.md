@@ -1,5 +1,5 @@
 # eslint-node
-Best Practices using ESLINT
+Best Practices using ESLINT rules
 
 <a href="https://eslint.org/docs/rules/">ESLINT - Official documentation</a>
 
